@@ -109,8 +109,12 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Aniket Ganorkar** /n
-**aniketganorkar08@gmail.com** /n
-**CSE(AI)** /n
-**B.Tech 4th Year** /n
-**Bhilai Institute of Technology Durg** /n
+**Aniket Ganorkar** 
+
+**aniketganorkar08@gmail.com** 
+
+**CSE(AI)** 
+
+**B.Tech 4th Year** 
+
+**Bhilai Institute of Technology Durg** 
