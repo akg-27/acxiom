@@ -5,7 +5,7 @@ Event Management System App
 
 A fully functional **multi-role Event Management System** built using **Flutter**, designed to simulate real-world workflows between **Admin, Vendor, and User**.
 
-This project demonstrates end-to-end application flow including product management, cart system, order processing, and admin controls — all implemented using **local state (no backend)**. For more Information and better UI/UX understanding please go through the Snapshots and Video of App provided.
+This project demonstrates end-to-end application flow including product management, cart system, order processing, and admin controls — all implemented using **local state (no backend)**. **For more Information and better UI/UX understanding please go through the Snapshots and Video of App provided.**
 
 ---
 
