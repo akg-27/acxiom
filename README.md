@@ -5,7 +5,7 @@ Event Management System App
 
 A fully functional **multi-role Event Management System** built using **Flutter**, designed to simulate real-world workflows between **Admin, Vendor, and User**.
 
-This project demonstrates end-to-end application flow including product management, cart system, order processing, and admin controls — all implemented using **local state (no backend)**.
+This project demonstrates end-to-end application flow including product management, cart system, order processing, and admin controls — all implemented using **local state (no backend)**. For more Information and better UI/UX understanding please go through the Snapshots and Video of App provided.
 
 ---
 
@@ -65,7 +65,7 @@ This project demonstrates end-to-end application flow including product manageme
 
 ```bash
 lib/
-├── core/            # Reusable widgets & themes
+├── core/            # Reusable widgets
 ├── data/            # Models & dummy data
 ├── features/
 │   ├── auth/
@@ -91,7 +91,7 @@ flutter run
 
 ## 📌 Notes
 
-* This is a **dummy/demo project** (no backend integration)
+* This is a **demo project** (no backend integration)
 * All data is stored locally and resets on app restart
 * Designed to showcase **application flow, UI, and logic building**
 
@@ -109,8 +109,8 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Aniket Ganorkar**
-**aniketganorkar08@gmail.com**
-**CSE(AI)**
-**B.Tech 4th Year**
-**Bhilai Institute of Technology Durg**
+**Aniket Ganorkar** /n
+**aniketganorkar08@gmail.com** /n
+**CSE(AI)** /n
+**B.Tech 4th Year** /n
+**Bhilai Institute of Technology Durg** /n
