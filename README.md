@@ -7,6 +7,8 @@ A fully functional **multi-role Event Management System** built using **Flutter*
 
 This project demonstrates end-to-end application flow including product management, cart system, order processing, and admin controls — all implemented using **local state (no backend)**. **For more Information and better UI/UX understanding please go through the Snapshots and Video of App provided.**
 
+**App Snapshots and Video Drive Link** = https://drive.google.com/drive/folders/1jS-n9iLDc9cQaCkO3v7AWUtotNttUztK?usp=sharing
+
 ---
 
 ## 🚀 Features
