@@ -28,7 +28,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
       Product(
         name: nameController.text.trim(),
         price: priceController.text.trim(),
-        vendorName: "Vendor 1", // ✅ FIX THIS (important for filtering)
+        vendorName: "Vendor 1", // 
       ),
     );
 
@@ -45,14 +45,14 @@ class _AddProductScreenState extends State<AddProductScreen> {
           children: [
             CustomTextField(
               hint: "Product Name",
-              controller: nameController, // ✅ FIX
+              controller: nameController, 
             ),
 
             const SizedBox(height: 10),
 
             CustomTextField(
               hint: "Product Price",
-              controller: priceController, // ✅ FIX
+              controller: priceController, 
             ),
 
             const SizedBox(height: 20),
